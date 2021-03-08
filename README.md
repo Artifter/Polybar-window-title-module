@@ -1,0 +1,1 @@
+# Polybar-window-title-module
