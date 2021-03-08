@@ -1,5 +1,8 @@
 # Polybar-window-title-module
 
+
+Requirements: polybar, xdotool
+
 This is a simple module for polybar aiming to display active window name
 
 move xgetfocus.sh to ~/.config/polybar/scripts and everything should work nicely
